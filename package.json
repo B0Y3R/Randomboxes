@@ -2,7 +2,7 @@
   "name": "random-boxes-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamesboyer92.github.io/Randomboxes",
+  "homepage": "https://jamesboyer92.github.io/Randomboxes/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "prop-types": "^15.5.10",
